@@ -1,9 +1,3 @@
-# app.py
-# -*- coding: utf-8 -*-
-# Excel Manager — Baby Violet Enhanced Edition
-# Bushra Abu Hani
-# Features: Create/Delete Excel files, Add/Edit/Delete rows & columns, Visual effects, Fully editable table
-
 import streamlit as st
 import pandas as pd
 from pathlib import Path
